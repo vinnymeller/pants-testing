@@ -11,7 +11,9 @@
 __pycache__/
 *.pyc
 .venv/
+.python-version
 
 # Editors
 .idea/
 *.iml
+
